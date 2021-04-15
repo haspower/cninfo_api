@@ -4,8 +4,8 @@ import os
 import requests
 
 # 以下两个api请输入您在巨潮资讯->个人中心查询到的key和secret
-access_key = "Oy0UB0fDAg87iKCaRg0zMQr59pDG9jFz"
-access_secret = "ATg1ZqRt4Y9OSQsCAqNxRHzZpfhsfVMP"
+access_key = "Oy0UB0fDAg87iKCaRg0zMQr59pDG9jF"
+access_secret = "ATg1ZqRt4Y9OSQsCAqNxRHzZpfhsfVMs"
 # 影响因素url：详见巨潮资讯API文档：http://webapi.cninfo.com.cn/#/apiDoc
 factor_url = "http://webapi.cninfo.com.cn/api/stock/p_stock2303"
 # 因为巨潮资讯的API一次最多只能返回50个企业的数据，故请将需要查询企业的代码分批次存在
